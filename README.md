@@ -1,5 +1,5 @@
 # Power-BI-Hospitality-Analysis-Hotel-Chain-Business
-## AtliQ Grands - Hospitality Revenue Management Dashboard
+## AtliQ Grands - Hospitality Revenue Management Dashboard [Project Link](https://app.powerbi.com/reportEmbed?reportId=f905f6b3-2c33-4b87-9d80-6390d0fe38a6&autoAuth=true&ctid=e3d8a179-8fb8-4700-98e0-093fe14172c6)
 
 ## Project Overview
 
